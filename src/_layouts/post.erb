@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+<div class="max-w-3xl mx-auto px-4 mb-8 py-8">
+  <%= render Shared::Title.new(title: resource.data.title) %>
+
+  <%= yield %>
+</div>

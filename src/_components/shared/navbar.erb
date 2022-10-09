@@ -1,0 +1,11 @@
+<div class="max-w-3xl mx-auto px-4 grid grid-cols-3 gap-4">
+  <header class="col-span-1">
+    <%= render Shared::Logo.new(styles: "w-20 fill-blue-500") %>
+  </header>
+
+  <nav class="col-span-2 flex justify-end items-center gap-4">
+    <a class="p-2 font-normal" href="<%= relative_url '/' %>">Home</a>
+    <a class="p-2 font-normal" href="<%= relative_url '/about' %>">About</a>
+    <a class="p-2 font-normal" href="<%= relative_url '/posts' %>">Posts</a>
+  </nav>
+</div>

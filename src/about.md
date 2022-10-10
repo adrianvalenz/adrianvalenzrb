@@ -1,10 +1,21 @@
 ---
 layout: page
 title: About
+published: false
 ---
 
-This is the basic Bridgetown site template. You can find out more info about customizing your Bridgetown site, as well as basic Bridgetown usage documentation at [bridgetownrb.com](https://bridgetownrb.com/)
+# This is Heading 1 with font display light
 
-You can find the source code for Bridgetown at GitHub:
-[bridgetownrb](https://github.com/bridgetownrb) /
-[bridgetown](https://github.com/bridgetownrb/bridgetown)
+## This is heading 2 with font-subhead semibold
+
+### Heading 3 with font-subhead semibold down text-lg
+
+And this is a paragraph with text-lg. alskdjf asdljfk as;dlfkjasdfk
+asdf asdf asdf asdf asdf asdf ads
+
+asd asdfasdf asdl;kjsd;lafj a. a;sldkfj a;sdlfa.sd as.dg a.sdg jasdja
+
+asdlfkjads;lfj asdlf kjal;sdfjlasdf.j asdf asd
+f asdf asdf asdfa sdfasdf a kasldjf;alsdjk a 
+ds;laksjdf;lasdjf;aljsdk
+

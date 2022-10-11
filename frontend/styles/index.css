@@ -13,7 +13,7 @@
 
 @layer base {
   body {
-    @apply selection:bg-blue-500 selection:text-slate-100 bg-slate-100 text-slate-800 font-serif text-lg antialiased;
+    @apply selection:bg-blue-500 selection:text-slate-100 bg-slate-100 text-slate-700 font-serif text-lg antialiased;
   }
 
   a {
